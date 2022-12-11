@@ -1,13 +1,11 @@
-p {
-  background-image: url("https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif");
-}
+
 <h1 align="center">Hi 👋, I'm Shivam kumar sah</h1>
 <h3 align="center">A young front end developer from India</h3>
 
 - 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **c , java **
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 - 📫 How to reach me **kumarshivamsk001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
