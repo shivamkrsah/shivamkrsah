@@ -1,4 +1,4 @@
-body {
+p {
   background-image: url("https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif");
 }
 <h1 align="center">Hi 👋, I'm Shivam kumar sah</h1>
