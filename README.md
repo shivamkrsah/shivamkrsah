@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **c , java etc**
+- 💬 Ask me about **c , java **
 
 - 📫 How to reach me **kumarshivamsk001@gmail.com**
 
