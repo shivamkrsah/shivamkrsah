@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Backend**
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 - 💬 Ask me about **c , java **
+- <br>
 - 📫 How to reach me **kumarshivamsk001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
